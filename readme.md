@@ -17,12 +17,7 @@ Session Manager adalah sistem pengelolaan sesi berbasis browser yang sangat aman
 - **Timeout Session**: Otomatis menghapus sesi yang tidak aktif
 
 ## Instalasi
-
-```bash
-npm install secure-session-manager
-```
-
-Atau tambahkan file `Session.ts` ke dalam proyek Anda.
+tambahkan file `Session.ts` ke dalam proyek Anda.
 
 ## Penggunaan Dasar
 
